@@ -2,12 +2,12 @@
 
 ## Responsive Web Design
 
-**Completion** : 69/1035 (6.67 %)
+**Completion** : 160/1035 (15,45 %)
 
 |||
 |-|-|
 Learn HTML by Building a Cat Photo App|69/69
-Learn Basic CSS by Building a Cafe Menu|0/91
+Learn Basic CSS by Building a Cafe Menu|91/91
 Learn CSS Colors by Building a Set of Colored Markers|0/94
 Learn HTML Forms by Building a Registration Form|0/65
 Learn the CSS Box Model by Building a Rothko Painting|0/45
