@@ -2,13 +2,11 @@
 
 ## Responsive Web Design
 
-**Completion** : 160/1035 (15,45 %)
-
 |||
 |-|-|
-Learn HTML by Building a Cat Photo App|69/69
-Learn Basic CSS by Building a Cafe Menu|91/91
-Learn CSS Colors by Building a Set of Colored Markers|0/94
+Learn HTML by Building a Cat Photo App|100 %
+Learn Basic CSS by Building a Cafe Menu|100 %
+Learn CSS Colors by Building a Set of Colored Markers|100 %
 Learn HTML Forms by Building a Registration Form|0/65
 Learn the CSS Box Model by Building a Rothko Painting|0/45
 Learn CSS Flexbox by Building a Photo Gallery|0/24
@@ -24,8 +22,6 @@ Learn CSS Transforms by Building a Penguin|0/104
 
 ## Front End Development Libraries
 
-**Completion** : 0/132 (0 %)
-
 |||
 |-|-|
 Bootstrap|0/31
@@ -37,16 +33,12 @@ React & Redux|0/10
 
 ## Data Visualization
 
-**Completion** : 0/39 (0 %)
-
 |||
 |-|-|
 Data Visualization with D3|0/29
 JSON APIs & AJAX|0/10
 
 ## JavaScript Algorithms & Data Structures
-
-**Completion** : /294 (0 %)
 
 |||
 |-|-|
