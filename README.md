@@ -7,7 +7,7 @@
 Learn HTML by Building a Cat Photo App|100 %
 Learn Basic CSS by Building a Cafe Menu|100 %
 Learn CSS Colors by Building a Set of Colored Markers|100 %
-Learn HTML Forms by Building a Registration Form|0/65
+Learn HTML Forms by Building a Registration Form|100 %
 Learn the CSS Box Model by Building a Rothko Painting|0/45
 Learn CSS Flexbox by Building a Photo Gallery|0/24
 Learn Typography by Building a Nutrition Label|0/67
